@@ -1,5 +1,4 @@
-#Assignment 8 
-This repository shows my work and code for Assignment 8. 
+#Assignment 8: This repository shows my work and code for Assignment 8. 
 ## Files included 
 - module08-assignment.py 
 ## What I Practiced 
